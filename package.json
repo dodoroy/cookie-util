@@ -1,0 +1,25 @@
+{
+  "name": "cook-util",
+  "version": "1.0.0",
+  "description": "cookie utils to set, delete cookie",
+  "main": "index.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dodoroy/cookie-util.git"
+  },
+  "keywords": [
+    "cookie"
+  ],
+  "author": "Effy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dodoroy/cook-util/issues"
+  },
+  "homepage": "https://github.com/dodoroy/cook-util#readme"
+}
