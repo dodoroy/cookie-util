@@ -1,5 +1,5 @@
 {
-  "name": "cook-util",
+  "name": "cookie-util",
   "version": "1.0.0",
   "description": "cookie utils to set, delete cookie",
   "main": "index.js",
@@ -19,7 +19,13 @@
   "author": "Effy",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/dodoroy/cook-util/issues"
+    "url": "https://github.com/dodoroy/cookie-util/issues"
   },
-  "homepage": "https://github.com/dodoroy/cook-util#readme"
+  "homepage": "https://github.com/dodoroy/cookie-util#readme",
+  "devDependencies": {
+    "eslint": "^5.6.1",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.14.0"
+  },
+  "dependencies": {}
 }
